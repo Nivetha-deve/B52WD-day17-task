@@ -1,0 +1,48 @@
+.card {
+    margin-bottom: 20px;
+    height: 540px;
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+       color: blue;
+  }
+  
+  .card-body {
+    padding: 10px;
+    height: 100%;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    
+  }
+  
+  .card-title {
+    font-size: 18px;
+    font-weight: bold;
+    background: rgb(63,94,251);   
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+  }
+  
+  .card-text {
+    font-size: 14px;
+  }
+
+  .card-img-top {
+    object-fit: cover;
+    height: 150px;
+    
+  }
+  
+  .btn1 {
+    margin-top: 10px;
+    background-color: blue;
+    color: black;
+    font-size: large;
+  }
+  .container{
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+  }
+  .card-title1{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+  }
